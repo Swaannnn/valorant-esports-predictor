@@ -1,4 +1,4 @@
-# 🎯 Valorant Esports Predictor
+# Valorant Esports Predictor
 
 **Valorant Esports Predictor** est une application communautaire dédiée aux fans de l’esport VALORANT.  
 L’objectif du projet est d’améliorer l’expérience des spectateurs en centralisant les informations liées aux compétitions et en proposant un système de prédictions gratuites et ludiques pour les matchs professionnels.
@@ -60,7 +60,7 @@ Ce projet est conçu pour respecter les règles et recommandations de Riot Games
 
 ---
 
-## 📌 Roadmap (prévisionnelle)
+## Roadmap (prévisionnelle)
 
 ### Phase 1 — Prototype
 - [ ] Affichage du calendrier des matchs
@@ -79,20 +79,20 @@ Ce projet est conçu pour respecter les règles et recommandations de Riot Games
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Ce projet est actuellement développé par une seule personne.  
 Les contributions ne sont pas ouvertes pour l’instant, mais cela pourra évoluer.
 
 ---
 
-## 📧 Contact
+## Contact
 
 Si vous avez des questions ou suggestions concernant le projet, vous pouvez ouvrir une issue sur ce repository.
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 Valorant Esports Predictor est un projet indépendant et **n’est ni affilié, ni approuvé, ni sponsorisé par Riot Games**.
 Toutes les données utilisées proviennent des APIs officielles Riot Games.
